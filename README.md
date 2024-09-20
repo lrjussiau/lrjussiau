@@ -14,6 +14,6 @@
 - [Nom du projet 2](lien du projet) : Description courte.
 
 ## Contact
-- Email : [ton_email@example.com](mailto:ton_email@example.com)
-- LinkedIn : [ton profil LinkedIn](lien)
+- Email : [lr.jussiaume@gmail.com](mailto:lr.jussiaume@gmail.com)
+- LinkedIn : [ton profil LinkedIn]([lien](https://www.linkedin.com/in/louis-robert-jussiaume-166263120/))
 
