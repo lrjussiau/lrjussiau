@@ -15,5 +15,5 @@
 
 ## Contact
 - Email : [lr.jussiaume@gmail.com](mailto:lr.jussiaume@gmail.com)
-- LinkedIn : [ton profil LinkedIn](https://www.linkedin.com/in/louis-robert-jussiaume-166263120/)
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/louis-robert-jussiaume-166263120/)
 
