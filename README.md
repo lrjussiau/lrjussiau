@@ -6,8 +6,7 @@
 - Actuellement en préparation pour un Ironman.
 
 ## Compétences
-- Langages : [ajoute tes langages préférés]
-- Technologies : [ajoute les technologies que tu maîtrises]
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Email">
 
 ## Projets
 - [Nom du projet 1](lien du projet) : Description courte.
