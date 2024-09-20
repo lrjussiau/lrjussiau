@@ -17,5 +17,6 @@
 <a href="mailto:lr.jussiaume@gmail.com" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="Email">
 </a>
-[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/louis-robert-jussiaume-166263120/)
-
+<a href="https://www.linkedin.com/in/louis-robert-jussiaume-166263120/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Linkedin">
+</a>
