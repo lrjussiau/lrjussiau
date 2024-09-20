@@ -14,6 +14,8 @@
 - [Nom du projet 2](lien du projet) : Description courte.
 
 ## Contact
-[![lr.jussiaume@gmail.com](https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000)](mailto:lr.jussiaume@gmail.com)
+<a href="mailto:lr.jussiaume@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="Email">
+</a>
 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/louis-robert-jussiaume-166263120/)
 
