@@ -6,7 +6,20 @@
 - Actuellement en préparation pour un Ironman.
 
 ## Compétences
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="C">
+<img src="[https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)" alt="C++">
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Html">
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Css">
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Javascript">
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Django">
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Docker">
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Shell">
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Github">
 <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Email">
+
+
+
+https://img.icons8.com/?size=100&id=40669&format=png&color=000000
 
 ## Projets
 - [Nom du projet 1](lien du projet) : Description courte.
