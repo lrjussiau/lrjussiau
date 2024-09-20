@@ -13,8 +13,8 @@
 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript">
 <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" alt="Django">
 <img src="https://img.icons8.com/?size=100&id=Wln8Z3PcXanx&format=png&color=000000" alt="Docker">
-<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Shell">
-<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Github">
+<img src="https://img.icons8.com/?size=100&id=10250&format=png&color=000000" alt="Shell">
+<img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" alt="Github">
 
 
 ## Projets
