@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bonjour, je suis Louis 👋
 
-<!--
-**lrjussiau/lrjussiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+- Étudiant à l'école 42 en informatique.
+- Passionné par les sports d'endurance (course, natation).
+- Actuellement en préparation pour un Ironman.
 
-Here are some ideas to get you started:
+## Compétences
+- Langages : [ajoute tes langages préférés]
+- Technologies : [ajoute les technologies que tu maîtrises]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+- [Nom du projet 1](lien du projet) : Description courte.
+- [Nom du projet 2](lien du projet) : Description courte.
+
+## Contact
+- Email : [ton_email@example.com](mailto:ton_email@example.com)
+- LinkedIn : [ton profil LinkedIn](lien)
+
