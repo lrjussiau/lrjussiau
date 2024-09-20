@@ -15,11 +15,7 @@
 <img src="https://img.icons8.com/?size=100&id=Wln8Z3PcXanx&format=png&color=000000" alt="Docker">
 <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Shell">
 <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Github">
-<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="Email">
 
-
-
-https://img.icons8.com/?size=100&id=40669&format=png&color=000000
 
 ## Projets
 - [Nom du projet 1](lien du projet) : Description courte.
