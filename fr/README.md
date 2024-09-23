@@ -24,7 +24,9 @@ Voici la liste de mes projets terminés ou en cours dans le cadre de mon cursus 
 
 | **Rang** | **Projet**                                         | **Description**                                                                 |
 |----------|----------------------------------------------------|---------------------------------------------------------------------------------|
-| **Rank 0 - 1** ✅ | [![libft](../badges/libftm.png)](https://github.com/lrjussiau/lbift)  | Ma bibliothèque de fonctions standards en C (inclut `ft_printf` et `get_next_line`). |
+| **Rank 0 - 1** ✅ | <a href="https://github.com/lrjussiau/lbift">
+  <img src="../badges/libftm.png" alt="libft" style="width:60%;">
+</a>| Ma bibliothèque de fonctions standards en C (inclut `ft_printf` et `get_next_line`). |
 | **Rank 2** ✅   | [`push_swap`](https://github.com/lrjussiau/ft_push_swap)  | Algorithme de tri utilisant deux piles et la méthode Radix.                       |
 |          | [`so_long`](https://github.com/lrjussiau/so_long)    | Un petit jeu utilisant la bibliothèque graphique `mlx`.                            |
 |          | [`pipex`](https://github.com/lrjussiau/pipex)     | Programme émulateur de pipelines `|` entre deux commandes.                      |
