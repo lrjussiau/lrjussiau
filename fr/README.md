@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/lang-en-blue.svg)](../README.md)   [![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.md) 
+
 # Bonjour, je suis Louis 👋
 
 ## À propos de moi

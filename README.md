@@ -1,7 +1,7 @@
 
 
 
-[![English](https://img.shields.io/badge/lang-en-blue.svg)](../README.md)   [![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./README.md) 
+[![English](https://img.shields.io/badge/lang-en-blue.svg)](./README.md)   [![Français](https://img.shields.io/badge/lang-fr-blue.svg)](./fr/README.md) 
 
 # Hi ! I'm Louis !
 
