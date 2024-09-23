@@ -2,10 +2,11 @@
 
 ## À propos de moi
 - Étudiant à l'école 42 en informatique.
-- Passionné par les sports d'endurance (course, natation).
-- Actuellement en préparation pour un Ironman.
+- Passionné par les sports d'endurance (course, natation, vélo).
+- Actuellement en préparation pour un Ironman (Juin 2025).
 
 ## Compétences
+Voici quelques-unes des technologies et langages que j'utilise régulièrement :
 <img src="https://img.icons8.com/?size=50&id=shQTXiDQiQVR&format=png&color=000000" alt="C"> <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C++"> <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="Html">
 <img src="https://img.icons8.com/?size=50&id=3BTBsJs5myRy&format=png&color=000000" alt="Css">
 <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="Javascript">
@@ -13,7 +14,6 @@
 <img src="https://img.icons8.com/?size=50&id=Wln8Z3PcXanx&format=png&color=000000" alt="Docker">
 <img src="https://img.icons8.com/?size=50&id=10250&format=png&color=000000" alt="Shell">
 <img src="https://img.icons8.com/?size=50&id=3tC9EQumUAuq&format=png&color=000000" alt="Github">
-
 
 ## 42 Lausanne | Common Core Curriculum
 
@@ -35,8 +35,8 @@ Voici la liste de mes projets terminés ou en cours dans le cadre de mon cursus 
 |          | [`webserv`](https://github.com/lrjussiau/web_serv)      | Création d'un serveur HTTP à partir de zéro.                                        |
 | **Rank 6** ✅   | [`ft_transcendence`](https://github.com/lrjussiau/ft_transcendence) | Application web en SPA permettant de jouer à Pong contre une IA ou en multijoueur. |
 
-
 ## Contact
+N'hésite pas à me contacter via email ou LinkedIn en utilisant les icônes ci-dessous :
 
 <a href="mailto:lr.jussiaume@gmail.com" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="Email">
