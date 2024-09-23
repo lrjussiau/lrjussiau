@@ -27,19 +27,19 @@ Here is the list of my completed or ongoing projects as part of my curriculum at
 
 | **Rank** | **Project**                                         | **Description**                                                                 |
 |----------|----------------------------------------------------|---------------------------------------------------------------------------------|
-| **Rank 0 - 1** ✅ | [`libft`](https://github.com/lrjussiau/lbift)  | My personal library of standard C functions (includes `ft_printf` and `get_next_line`). |
-| **Rank 2** ✅   | [`push_swap`](https://github.com/lrjussiau/ft_push_swap)  | Sorting algorithm using two stacks and the Radix method.                   |
-|          | [`so_long`](https://github.com/lrjussiau/so_long)    | A small game using the mlx graphical library.                     |
-|          | [`pipex`](https://github.com/lrjussiau/pipex)     |  Program emulating a pipeline "|" between two commands.                      |
-| **Rank 3** ✅   | [`philosophers`](https://github.com/lrjussiau/Philosophers) |  Implementation of the philosopher problem using threads and mutexes.                      |
-|          | [`minishell`](https://github.com/lrjussiau/mini_shell)    | Recreation of a simple shell in C handling pipes, redirections, and other features.          |
-| **Rank 4** ✅   | [`cub3d`](https://github.com/lrjussiau/cube3d)        | A clone of Wolfenstein 3D.                                                          |
-|          | [`net practice`](https://github.com/lrjussiau/lbift) | This project involves solving problems related to setting up a small functional network.          |
-|          | [`piscine C++ (Part 1)`](https://github.com/lrjussiau/CPP) | Exercises from the C++ piscine, part one.                                    |
-| **Rank 5** ✅   | [`piscine C++ (Part 2)`](https://github.com/lrjussiau/CPP) | Exercises from the C++ piscine, part two.                                 
-|          | [`inception`](https://github.com/lrjussiau/Inception)    | This project virtualizes multiple Docker images by creating them in a new virtual machine.      |
-|          | [`webserv`](https://github.com/lrjussiau/web_serv)      | Creation of an HTTP server from scratch.                                        |
-| **Rank 6** ✅   | [`ft_transcendence`](https://github.com/lrjussiau/ft_transcendence) | Creation of a web application in SPA format allowing to play PONG against an AI, in local multiplayer or on multiple web clients (and many other features). |
+| **Rank 0 - 1** ✅ | [![libftm](./badges/libftm.png)](https://github.com/lrjussiau/lbift)   | My personal library of standard C functions (includes `ft_printf` and `get_next_line`). |
+| **Rank 2** ✅   | [![push_swapm](./badges/push_swapm.png)](https://github.com/lrjussiau/ft_push_swap)  | Sorting algorithm using two stacks and the Radix method.                   |
+|          | [![so_longm](./badges/so_longm.png)](https://github.com/lrjussiau/so_long)  | A small game using the mlx graphical library.                     |
+|          | [![pipexm](./badges/pipexm.png)](https://github.com/lrjussiau/pipex)    |  Program emulating a pipeline "|" between two commands.                      |
+| **Rank 3** ✅   | [![philosophersm](./badges/philosophersm.png)](https://github.com/lrjussiau/Philosophers) |  Implementation of the philosopher problem using threads and mutexes.                      |
+|          | [![minishellm](./badges/minishellm.png)](https://github.com/lrjussiau/mini_shell)    | Recreation of a simple shell in C handling pipes, redirections, and other features.          |
+| **Rank 4** ✅   | [![cub3dm](./badges/cub3dm.png)](https://github.com/lrjussiau/cube3d)      | A clone of Wolfenstein 3D.                                                          |
+|          | [![net_practicem](./badges/netpracticem.png)](https://github.com/lrjussiau/lbift) | This project involves solving problems related to setting up a small functional network.          |
+|          | [![cpp_part_1m](./badges/cppe.png)](https://github.com/lrjussiau/CPP) | Exercises from the C++ piscine, part one.                                    |
+| **Rank 5** ✅   |[![cpp_part_2m](./badges/cppm.png)](https://github.com/lrjussiau/CPP)  | Exercises from the C++ piscine, part two.                                 
+|          | [![inceptionm](./badges/inceptionm.png)](https://github.com/lrjussiau/Inception) | This project virtualizes multiple Docker images by creating them in a new virtual machine.      |
+|          | [![webservm](./badges/webservm.png)](https://github.com/lrjussiau/web_serv)   | Creation of an HTTP server from scratch.                                        |
+| **Rank 6** ✅   | [![ft_transcendencem](./badges/ft_transcendencem.png)](https://github.com/lrjussiau/ft_transcendence) | Creation of a web application in SPA format allowing to play PONG against an AI, in local multiplayer or on multiple web clients (and many other features). |
 
 
 ## Contact
