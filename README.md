@@ -7,6 +7,7 @@
 
 ## Compétences
 Voici quelques-unes des technologies et langages que j'utilise régulièrement :
+
 <img src="https://img.icons8.com/?size=50&id=shQTXiDQiQVR&format=png&color=000000" alt="C"> <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C++"> <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="Html">
 <img src="https://img.icons8.com/?size=50&id=3BTBsJs5myRy&format=png&color=000000" alt="Css">
 <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="Javascript">
